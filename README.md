@@ -3,8 +3,8 @@ Various R mini-projects demonstrating statistical analysis, web-scraping, text m
 #### Note: All projects are associated with my contributions to the Quora R blog, Rticles: https://rticles.quora.com/
 
 ## Project List
-<b>Trump Tweets Word Cloud</b> https://rticles.quora.com/Trump-Tweets-Word-Cloud
-<b>Introduction to Shiny</b> https://rticles.quora.com/Introduction-to-Shiny
+<b>Trump Tweets Word Cloud</b> https://rticles.quora.com/Trump-Tweets-Word-Cloud <br> 
+<b>Introduction to Shiny</b> https://rticles.quora.com/Introduction-to-Shiny <br>
 <b>Generating Data for Simpson's Paradox</b> https://rticles.quora.com/Generating-Data-for-Simpsons-Paradox <br>
 <b>Standardizing US State Names</b> https://rticles.quora.com/Standardizing-US-State-Names <br>
 
