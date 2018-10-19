@@ -4,6 +4,7 @@ Various R mini-projects demonstrating statistical analysis, web-scraping, text m
 
 # Project List
 <b>Trump Tweets Word Cloud</b> https://rticles.quora.com/Trump-Tweets-Word-Cloud <br>
+Files:
 <ul>
   <li>Trump Tweets Word Cloud.ipynb</li>
 </ul>
@@ -11,12 +12,14 @@ Various R mini-projects demonstrating statistical analysis, web-scraping, text m
 ![alt text](https://qph.fs.quoracdn.net/main-qimg-3fad725271a5cf9afd8fb7d3c7f3da8c) <br>
 
 <b>Introduction to Shiny</b> https://rticles.quora.com/Introduction-to-Shiny <br>
+Files:
 <ul>
   <li>Shiny-Gapminder.md</li>
   <li>Shiny-Gapminder.Rmd</li>
   <li>ShinyApp.PNG</li>
 </ul>
 <b>Generating Data for Simpson's Paradox</b> https://rticles.quora.com/Generating-Data-for-Simpsons-Paradox <br>
+Files:
 <ul>
   <li>Simpson's Paradox.ipynb</li>
   <li>simpsons_paradox.R</li>
@@ -25,6 +28,7 @@ Various R mini-projects demonstrating statistical analysis, web-scraping, text m
 ![alt text](https://qph.fs.quoracdn.net/main-qimg-8afec86ab2d4fa5f9e02f4fc1837a755) <br>
 
 <b>Standardizing US State Names</b> https://rticles.quora.com/Standardizing-US-State-Names <br>
+Files:
 <ul>
   <li>standardizing_us.R</li>
 </ul>
