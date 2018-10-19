@@ -3,7 +3,7 @@ Various R mini-projects demonstrating statistical analysis, web-scraping, text m
 #### Note: All projects are associated with my contributions to the Quora R blog, Rticles: https://rticles.quora.com/
 
 # Project List
-## Trump Tweets Word Cloud https://rticles.quora.com/Trump-Tweets-Word-Cloud <br>
+### Trump Tweets Word Cloud https://rticles.quora.com/Trump-Tweets-Word-Cloud <br>
 <ul>
   <li>Trump Tweets Word Cloud.ipynb</li>
 </ul>
