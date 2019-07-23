@@ -1,3 +1,8 @@
+##############################
+### What is data dredging? ###
+##############################
+# By Jon Wayland
+
 # Generating correlated data with mvrnorm() from the MASS library
 library(MASS)
 
